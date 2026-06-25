@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-chanson-des-vieux-amants/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for La Chanson Des Vieux Amants](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-chanson-des-vieux-amants/) |
+| **Get License** | [Official Music Licensing for La Chanson Des Vieux Amants](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-chanson-des-vieux-amants/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4c29214e9b8de2486bb9ddc5abe5f3eb74333fe5a33343dc9d5db4b08c28df70` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
